@@ -258,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@Jonymar Bravo](https://github.com/yourusername)
+- GitHub: [@Jonymar Barrete](https://github.com/jonymarbravo)
 - Email: jonymarbarrete88@gmail.com
 
 ## 🙏 Acknowledgments
